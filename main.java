@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Code at line 4");
         System.out.println("Code at line 5 added in branch_1");
 
+        System.out.println("Code at line 5 are also added on Master!");
+        
     }
 }
